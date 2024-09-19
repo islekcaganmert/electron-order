@@ -24,7 +24,7 @@ def get(r: Context, result: list = None) -> Page:
                     ),
                     width=Size.max_content,
                     childs=[
-                        Title('Electron Sorter'),
+                        Title('Electron Order'),
                         Form(
                             method='POST',
                             childs=[Line([i]) for i in [
