@@ -1,6 +1,6 @@
 <img width="1438" alt="Screenshot 2024-09-19 at 12 23 46 PM" src="https://github.com/user-attachments/assets/b837b423-3e6a-47c3-9fa6-7f9f81192158">
 
-# electronSorter
+# Electron Order
 
 A simple web app that shows order of electrons according to the modern atom theory
 
