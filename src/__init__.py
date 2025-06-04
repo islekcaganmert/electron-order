@@ -14,7 +14,6 @@ def get(r: Context, result: list = None) -> Page:
         title="Electron Order",
         selector=f'body_blank',
         childs=[
-            # Place Navbar above Root,
             Root([
                 Box(
                     margin=Margin(
@@ -49,8 +48,3 @@ def get(r: Context, result: list = None) -> Page:
             ])
         ]
     )
-
-
-# istisnalar
-# iyonlar
-        
